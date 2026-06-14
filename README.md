@@ -10,7 +10,7 @@ AIVS enables organizations to prove what their AI agents did — and for any par
 
 | Spec | IETF Draft | Description |
 |------|-----------|-------------|
-| [AIVS v1](./draft-stone-aivs-00.txt) | [draft-stone-aivs-00](https://datatracker.ietf.org/doc/draft-stone-aivs/)) | Hash-chained audit logs, Ed25519 signing, self-contained verification |
+| [AIVS v1](./draft-stone-aivs-00.txt) | [draft-stone-aivs-00](https://datatracker.ietf.org/doc/draft-stone-aivs/) | Hash-chained audit logs, Ed25519 signing, self-contained verification |
 
 ## Key Features
 
